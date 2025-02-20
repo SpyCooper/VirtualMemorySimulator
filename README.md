@@ -33,4 +33,4 @@ Additionally, each of the test files can be run individually with the following 
 
 ## Credit
 
-All files test files, correct answers, and the `Makefile` were made by Shawn Ostermann. They are there to for future use if the `vm.cc` needs to be reran.
+All files test files, correct answers, and the `Makefile` were made by Shawn Ostermann. They are there to for future use if the `vm.cc` needs to be reran. All of `vm.cc` was made by me.
