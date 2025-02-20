@@ -30,3 +30,7 @@ Additionally, each of the test files can be run individually with the following 
 - `vm` can be ran in the terminal with any of the algorithms and input files (example: `./vm FIFO input.w.bs`) 
 - `./test` can be ran with any of the input files to check if the output of FIFO and LRU matches the correct answers (example: `./test input.w.bs)
 - `./testoptimal` can be ran to check if the output of the OPTIMAL algorithm matches the correct answer for all the input files (example: `./testoptimal input.w.bs`)
+
+## Credit
+
+All files test files, correct answers, and the `Makefile` were made by Shawn Ostermann. They are there to for future use if the `vm.cc` needs to be reran.
